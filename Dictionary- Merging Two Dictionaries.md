@@ -1,3 +1,4 @@
+
 ## Dictionary Operations in Python: Merging Two Dictionaries
 
 ## 🎯 Aim
@@ -10,9 +11,17 @@ To write a Python program that merges **two dictionaries** and combines their ke
 3. Call the `merge()` function and print the merged dictionary.
 
 ## 🧾 Program
+```
+a=eval(input())
+b=eval(input())
+c=a.copy()
+c.update(b)
+print(c)
+```
 
-Add code here
 
 ## Output
+![438927958-73844d5d-fea7-4dff-8ee5-c2483641e2c0](https://github.com/user-attachments/assets/f5d0d3cb-d3fe-4282-b01e-db598dfca37d)
 
 ## Result
+Thus the program executed successfully.
